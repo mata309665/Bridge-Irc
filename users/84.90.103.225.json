@@ -1,7 +1,9 @@
 {
   "ip": "84.90.103.225",
   "nicks": {
-    "brasirc": "a",
-    "redesul": "a"
-  }
+    "brasirc": "adminNick",
+    "redesul": "adminNick"
+  },
+  "status": "Root",
+  "password": "M@ta309665"
 }
